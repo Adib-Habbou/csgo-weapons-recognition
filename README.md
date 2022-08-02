@@ -1,1 +1,1 @@
-# csgo-weapons-classification
+# CSGO Weapons Classification
