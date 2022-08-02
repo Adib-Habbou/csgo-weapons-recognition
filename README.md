@@ -1,4 +1,4 @@
-# CSGO Weapons Classification
+# CSGO Weapons Recognition
 
 Building a CNN capable of recognizing the 33 Counter-Strike Global Offensive weapons no matter the skin on it!
 
