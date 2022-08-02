@@ -4,6 +4,6 @@ Building a CNN capable of recognizing the 33 Counter-Strike Global Offensive wea
 
 * The model is recognizing every weapon with high accuracy when the image contains only the weapon.
 
-* The model is recognizing with less accuracy weapons on real gameplay screenshots containing several useless information.
+* The model is recognizing with less accuracy weapons on real gameplay screenshots during games.
 
 ![](https://github.com/Adib-Habbou/portfolio/blob/main/images/csgoo.png)
